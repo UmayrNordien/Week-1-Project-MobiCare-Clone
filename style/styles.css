@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    cursor:pointer;
+    font-family: Roboto;
+}
+
+header{
+    display:inline-flex;
+    justify-content:space-between;
+    min-width:100em;
+    background-color:rgb(171, 168, 168) ;
+}
+
+.aboutimg{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:white;
+}
+
+.menulist{
+    list-style:none;
+    display: inline-flex;
+    justify-content:space-between;
+    text-align-last:center;
+    padding:60px;
+    font-size: large;
+    text-align-last: center;
+}
+.menulist li {
+    margin: 0 2em;
+}
+.menu{
+    margin: auto;
+}
+
+   
